@@ -2,6 +2,10 @@
 
 Built a task manager with Angular 19, uses the local storage to save the tasks. You can add and delete tasks as necessary.
 
+## Live Demo
+
+[https://task-manager.tusharin.com/](https://task-manager.tusharin.com/)
+
 ## Development server
 
 To start a local development server, run:
