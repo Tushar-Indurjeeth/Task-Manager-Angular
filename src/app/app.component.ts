@@ -30,7 +30,7 @@ export class AppComponent {
     const taskValue = this.taskForm.value.task?.trim();
 
     if (taskValue != '' && taskValue != undefined) {
-      console.log(`Task submitted: ${taskValue}`);
+      // console.log(`Task submitted: ${taskValue}`);
       // Add the new task to the tasks array
       this.tasks.push(taskValue);
 
