@@ -1,4 +1,4 @@
-# TaskManager
+# Task Manager
 
 Built a task manager with Angular 19, uses the local storage to save the tasks. You can add and delete tasks as necessary.
 
